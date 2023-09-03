@@ -16,7 +16,7 @@ public class Main
 	     System.out.println("Ingrese un numero:");
 	     numB = leer.nextInt();
 	     
-	     if(numA > 0 && numeroB > 0){
+	     if(numA > 0 && numB > 0){
 	        System.out.println("true");
 	     }
 	     
