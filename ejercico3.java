@@ -6,7 +6,7 @@ public class Main
     
 	public static void main(String[] args) {
 	    
-	     int numA;numB
+	     int numA,numB;
 	     
 	     Scanner leer = new Scanner(System.in);
 	     
